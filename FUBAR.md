@@ -19,7 +19,11 @@ Verify = 1
 
 var yourface = 0;
 
+<<<<<<< HEAD
 function = foo() {
   var = bar:
   console.log(foovarbar):
 }
+=======
+We love working on the master branch!!! - Ted & Alice
+>>>>>>> 802dea7830a23c357d58aa17c41ece27c03e66e3
