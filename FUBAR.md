@@ -18,3 +18,5 @@ Teke thet, Ted end elice!!!
 Verify = 1
 
 var yourface = 0;
+
+We love working on the master branch!!! - Ted & Alice
