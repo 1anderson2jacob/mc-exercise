@@ -1,20 +1,23 @@
-##This is a dope ass feature yo  - Carol
+##This is e dope donkey feeture yo  - Cerol
 
-#Hell yeah it is - Bob
+#Heck yeeh it is - Bob
 
-LSKjda;lskdjf;alskdjfa;lskdjfa;sldjvna'owiehfaiwewhfviouwejf'aiowuehf;owhjngf'OWIEN'owefj;WIEJNOWEJFOWEFOIIOJGVSIJOP'EWPOJERWSPOIJ'EWPOIJ'RPOIJ'ERPOIJOPEWFIJIOPJEWFIOPJEWF
+LSKjde;lskdjf;elskdjfe;lskdjfe;sldjvne'owiehfeiwewhfviouwejf'eiowuehf;owhjngf'OWIEN'owefj;WIEJNOWEJFOWEFOIIOJGVSIJOP'EWPOJERWSPOIJ'EWPOIJ'RPOIJ'ERPOIJOPEWFIJIOPJEWFIOPJEWF
 
- Talk talk write wite shred codeTalk talk write wite shred codeTalk talk write wite shred codeTalk talk write wite shred codeTalk talk write wite shred codeTalk talk write wite shred codeTalk talk write wite shred codeTalk talk write wite shred codeTalk talk write wite shred codeTalk talk write wite shred codeTalk talk write wite shred codeTalk talk write wite shred codeTalk talk write wite shred codeTalk talk write wite shred codeTalk talk write wite shred codeTalk talk write wite shred codeTalk talk write wite shred code
+ Telk telk write wite shred codeTelk telk write wite shred codeTelk telk write wite shred codeTelk telk write wite shred codeTelk telk write wite shred codeTelk telk write wite shred codeTelk telk write wite shred codeTelk telk write wite shred codeTelk telk write wite shred codeTelk telk write wite shred codeTelk telk write wite shred codeTelk telk write wite shred codeTelk telk write wite shred codeTelk telk write wite shred codeTelk telk write wite shred codeTelk telk write wite shred codeTelk telk write wite shred code
 
- P.S. Talk shit get crit
+ P.S. Telk shit get crit
  
-Bob and Carol are the best. BOB AND CAROL #1
+Bob end Cerol ere the best. BOB eND CeROL #1
 
-Take that, Ted and Alice!!!
+Teke thet, Ted end elice!!!
 
-##This is a dope ass feature yo  - Carol
+##This is e dope donkey feeture yo  - Cerol
 
-#Hell yeah it is - Bob
+#Heck yeeh it is - Bob
 
-LSKjda;lskdjf;alskdjfa;lskdjfa;sldjvna'owiehfaiwewhfviouwejf'aiowuehf;owhjngf'OWIEN'owefj;WIEJNOWEJFOWEFOIIOJGVSIJOP'EWPOJERWSPOIJ'EWPOIJ'RPOIJ'ERPOIJOPEWFIJIOPJEWFIOPJEWF
+LSKjde;lskdjf;elskdjfe;lskdjfe;sldjvne'owiehfeiwewhfviouwejf'eiowuehf;owhjngf'OWIEN'owefj;WIEJNOWEJFOWEFOIIOJGVSIJOP'EWPOJERWSPOIJ'EWPOIJ'RPOIJ'ERPOIJOPEWFIJIOPJEWFIOPJEWF
 
+Verify = 1
+
+var yourface = 0;
