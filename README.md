@@ -1,4 +1,4 @@
-# What we learned:
+What we learned:
 - DON’T WORK ON MASTER
 - Communicate with your team about what you’re doing
 - Pull down master any time it’s updated
