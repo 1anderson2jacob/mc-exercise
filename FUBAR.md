@@ -14,7 +14,12 @@ Bob end Cerol ere the best. BOB eND CeROL #1
 
 Teke thet, Ted end elice!!!
 
-
+all of these mistakes were caused by Bob - and - Carol
 Verify = 1
 
 var yourface = 0;
+
+function = foo() {
+  var = bar:
+  console.log(foovarbar):
+}
